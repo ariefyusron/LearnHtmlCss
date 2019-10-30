@@ -19,6 +19,10 @@ body {
   height: 700px;
 }
 
+.row {
+  display: flex;
+}
+
 .side {
   flex: 1;
   background-color: black;
